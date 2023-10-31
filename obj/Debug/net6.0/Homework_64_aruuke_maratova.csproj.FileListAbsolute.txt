@@ -30,3 +30,13 @@ C:\Users\cpu\source\repos\Homework_64_aruuke_maratova\obj\Debug\net6.0\refint\Ho
 C:\Users\cpu\source\repos\Homework_64_aruuke_maratova\obj\Debug\net6.0\Homework_64_aruuke_maratova.pdb
 C:\Users\cpu\source\repos\Homework_64_aruuke_maratova\obj\Debug\net6.0\Homework_64_aruuke_maratova.genruntimeconfig.cache
 C:\Users\cpu\source\repos\Homework_64_aruuke_maratova\obj\Debug\net6.0\ref\Homework_64_aruuke_maratova.dll
+C:\Users\cpu\source\repos\Homework_64_aruuke_maratova\bin\Debug\net6.0\Humanizer.dll
+C:\Users\cpu\source\repos\Homework_64_aruuke_maratova\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\cpu\source\repos\Homework_64_aruuke_maratova\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\cpu\source\repos\Homework_64_aruuke_maratova\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\cpu\source\repos\Homework_64_aruuke_maratova\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\cpu\source\repos\Homework_64_aruuke_maratova\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\cpu\source\repos\Homework_64_aruuke_maratova\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\cpu\source\repos\Homework_64_aruuke_maratova\bin\Debug\net6.0\Npgsql.dll
+C:\Users\cpu\source\repos\Homework_64_aruuke_maratova\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\cpu\source\repos\Homework_64_aruuke_maratova\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
