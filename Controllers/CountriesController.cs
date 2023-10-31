@@ -104,5 +104,16 @@ namespace Homework_64_aruuke_maratova.Controllers
             return Ok(country);
 
         }
+
+        [HttpGet("search")]
+        public IActionResult SearchCountryByName([FromQuery] string name)
+        {
+            var country = _db.CountriesNew.FirstOrDefault(c => c.Name.Contains(name));
+            if (country == null)
+            {
+                return NotFound();
+            }
+            return Ok(country);
+        }
     }
 }
